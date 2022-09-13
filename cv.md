@@ -2,8 +2,11 @@
 ---
 
 ## Alekseii Porvin
-### Junior Frontend Developer
+
+#### Junior Frontend Developer
 ___
 
 ### Contacts:
-*  phone: +38(063) 868 52 68
+* Phone: +38(063) 868 52 68
+* E-mail: oleksii.korvin@gmail.com
+* Telegram: @Korvin_2021
