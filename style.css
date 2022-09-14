@@ -8,3 +8,8 @@ body {
   font-family: 'Montserrat', sans-serif;
   background-color: #e5e5e5;
 }
+
+.main {
+  width: 1200px;
+  margin: 0 auto;
+}
